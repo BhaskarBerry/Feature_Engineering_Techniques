@@ -1,4 +1,4 @@
-# feature-engineering
+# FeatureEngineering
 In Machine learning pipeline there are below steps:
 1. Bussiness understanding
 2. Gathering the data
@@ -7,3 +7,6 @@ In Machine learning pipeline there are below steps:
 5. Feature Engineering
 6. Model Building
 5. Deployment
+
+
+All the techniques used in Feature Engineering using the Python to implement various libraries.
